@@ -1,0 +1,19 @@
+{
+  "name": "@wasong/tiny",
+  "version": "0.0.1",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Song",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wasong/tiny.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wasong/tiny/issues"
+  },
+  "homepage": "https://github.com/wasong/tiny#readme"
+}
