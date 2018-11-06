@@ -7,11 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andrew Song",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/wasong/tiny.git"
-  },
+  "license": "MIT",
+  "repository": "wasong/tiny",
   "bugs": {
     "url": "https://github.com/wasong/tiny/issues"
   },
